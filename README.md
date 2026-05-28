@@ -1,2 +1,2 @@
-Official implementation of **Context-Aware Cross-Modal Semantic Fusion for Zero-Shot Semantic Segmentation**.
+ **Context-Aware Cross-Modal Semantic Fusion for Zero-Shot Semantic Segmentation**.
 Code will be released upon acceptance.
