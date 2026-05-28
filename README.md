@@ -1,2 +1,6 @@
- **Context-Aware Cross-Modal Semantic Fusion for Zero-Shot Semantic Segmentation**.
+# ZSSS
+
+This repository contains the official implementation of  
+**Context-Aware Cross-Modal Semantic Fusion for Zero-Shot Semantic Segmentation**.
+
 Code will be released upon acceptance.
